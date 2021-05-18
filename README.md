@@ -15,6 +15,7 @@ Apt-get install maven (ubuntu)
 - cd /root/.m2/repository
 - rm -rf repository - Try deleting the repository inside /root/.m2
 
+
 - All dependencies will be deleted 
 - Now let's go back to the maven folder and again run the following
 - mvn install - Will install all the dependencies
