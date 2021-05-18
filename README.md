@@ -29,3 +29,5 @@ Apt-get install maven (ubuntu)
 War- web archive ( compressing all the web application components and arranging them chronologically inside a single war file . like google.war)
 Ear - enterprise archive ( compressed version of enterprise application components and arranging them chronologically inside a single ear file . like google.ear)
 Jar - java archive  ( compressed version of java application components and arranging them chronologically inside a single jar file . like google.jar)
+
+- Test comment add
